@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">InterActive Segmentation</string>
+    <string name="show_image">Show Image</string>
+    <string name="tv_screen_description">Take a picture or pick from gallery</string>
+    <string name="tv_result_png">The Target PNG Image</string>
+    <string name="tv_add_image">Add Image</string>
+    <string name="btn_take_a_picture">Take a picture</string>
+    <string name="btn_import_from_gallery">Import from gallery</string>
+    <string name="tv_toolbar">Toolbar</string>
+    <string name="tv_import_from_gallery_description">Import an image from gallery</string>
+    <string name="tv_take_a_picture_description">Open camera and take a picture</string>
+</resources>
